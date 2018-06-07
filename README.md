@@ -10,3 +10,7 @@ All data for the store items is contained in a "products" table stored in mySQL.
 
 # SQL:
 Please reference the sql.txt file for all of the SQL commands used to create the "products" table.  
+
+# Screenshots of use cases:
+
+![Image of Read](https://tsstace.github.com/images/yaktocat.png)
