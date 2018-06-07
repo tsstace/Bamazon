@@ -1,0 +1,23 @@
+-- create database bamazonDB;
+--
+-- use bamazonDB;
+-- CREATE TABLE Products (
+--  item_id INT NOT NULL,
+--  product_name VARCHAR(50) NULL,
+--  dept_name VARCHAR(50) NULL,
+-- price DECIMAL(10,2) NULL,
+-- stock_qty INT NOT NULL,
+--  PRIMARY KEY (item_id)
+-- );
+--
+-- INSERT INTO products (item_id, product_name, dept_name, price, stock_qty)
+-- VALUES (1, "Platform Espadrille", "Women's Shoes", 89.99, 125)
+-- VALUES (2, "Highball Glasses (set of 4)", "Home & Kitchen", 24.95, 80)
+-- VALUES (3, "Bialetti Espresso Maker", "Home & Kitchen", 34.99, 50)
+-- VALUES (4, "Lancome Ultra Shiny Lip Gloss", "Beauty", 29.00, 75)
+-- VALUES (5, "Pusheen Cat Face Backpack", "Fashion & Accessories", 23.99, 53)
+-- VALUES (6, "Jane Austen: The Complete Works", "Books", 92.95, 26)
+-- VALUES (7, "Albanese Gummi Bears, 5 Pound Bag", "Grocery", 12.99, 100)
+-- VALUES (8, "Clip In Hair Bangs, Auburn Sunrise", "Beauty", 5.99, 30)
+-- VALUES (9, "Dark Salted Brown Butter Chocolate", "Grocery", 3.99, 44)
+-- VALUES (10, "Party Strobe Dance Light Disco Ball", "Home Improvement", 12.99, 99)
