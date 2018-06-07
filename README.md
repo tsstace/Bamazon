@@ -13,4 +13,5 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 
 # Screenshots of use cases:
 
-![Image of Read](https://tsstace.github.com/images/yaktocat.png)
+![Image of Read](https://tsstace.github.io/Bamazon/images/Bamazon Product List.png)
+
