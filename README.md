@@ -16,7 +16,7 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 ![Read](./Images/ProductList.PNG)
 
 
-![Purchase Prompt](.Images/PurchasePrompt.PNG)
+![Purchase Prompt](./Images/PurchasePrompt.PNG)
 
 
 ![Reprompt Purchase](./Images/Reprompt.PNG)
