@@ -17,9 +17,11 @@ The product list displayed upon initial read function:
 
 ![Read](./Images/ProductList.PNG)
 
-The purchase prompt after an item number has been entered:
+The quantity prompt after an item number has been entered:
+
 ![Purchase Prompt](./Images/PurchasePrompt.PNG)
 
+The reprompt after an order has completed:
 
 ![Reprompt Purchase](./Images/Reprompt.PNG)
 
