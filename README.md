@@ -13,17 +13,17 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 
 # Screenshots of use cases:
 
-![Read](./Images/Bamazon Product List.PNG)
+![Read](./Images/BamazonProductList.PNG)
 
 
-![Purchase Prompt](.Images/Purchase Prompt.PNG)
+![Purchase Prompt](.Images/PurchasePrompt.PNG)
 
 
 ![Reprompt Purchase](./Images/Reprompt.PNG)
 
 
-![More Shopping = Yes](./Images/More Shopping.PNG)
+![More Shopping = Yes](./Images/MoreShopping.PNG)
 
 
-![More Shopping = No](./Images/Done Shopping.PNG)
+![More Shopping = No](./Images/DoneShopping.PNG)
 
