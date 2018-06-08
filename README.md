@@ -25,9 +25,11 @@ The reprompt after an order has completed:
 
 ![Reprompt Purchase](./Images/Reprompt.PNG)
 
+The user wishes to purchase additional items:
 
 ![More Shopping = Yes](./Images/MoreShopping.PNG)
 
+The user has finished shopping and exits:
 
 ![More Shopping = No](./Images/DoneShopping.PNG)
 
