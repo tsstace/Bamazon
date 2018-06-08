@@ -13,9 +13,11 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 
 # Screenshots of use cases:
 
+The product list displayed upon initial read function:
+
 ![Read](./Images/ProductList.PNG)
 
-
+The purchase prompt after an item number has been entered:
 ![Purchase Prompt](./Images/PurchasePrompt.PNG)
 
 
