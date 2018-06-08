@@ -19,7 +19,7 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 ![Purchase Prompt](https://tsstace.github.io/Bamazon/images/Purchase Prompt.PNG)
 
 
-![Reprompt Purchase](tsstace/Bamazon/images/Reprompt.PNG)
+![Reprompt Purchase](./Images/Reprompt.PNG)
 
 
 ![More Shopping = Yes](https://tsstace.github.io/Bamazon/images/More Shopping.PNG)
