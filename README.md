@@ -13,7 +13,7 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 
 # Screenshots of use cases:
 
-![Read](./Images/BamazonProductList.PNG)
+![Read](./Images/Bamazon_Product_List.PNG)
 
 
 ![Purchase Prompt](.Images/PurchasePrompt.PNG)
