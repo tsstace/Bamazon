@@ -13,17 +13,17 @@ Please reference the sql.txt file for all of the SQL commands used to create the
 
 # Screenshots of use cases:
 
-![Read](https://tsstace.github.io/Bamazon/images/Bamazon Product List.PNG)
+![Read](./Images/Bamazon Product List.PNG)
 
 
-![Purchase Prompt](https://tsstace.github.io/Bamazon/images/Purchase Prompt.PNG)
+![Purchase Prompt](.Images/Purchase Prompt.PNG)
 
 
 ![Reprompt Purchase](./Images/Reprompt.PNG)
 
 
-![More Shopping = Yes](https://tsstace.github.io/Bamazon/images/More Shopping.PNG)
+![More Shopping = Yes](./Images/More Shopping.PNG)
 
 
-![More Shopping = No](https://tsstace.github.io/Bamazon/images/Done Shopping.PNG)
+![More Shopping = No](./Images/Done Shopping.PNG)
 
