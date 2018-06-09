@@ -29,6 +29,10 @@ The user wishes to purchase additional items:
 
 ![More Shopping = Yes](./Images/MoreShopping.PNG)
 
+The user attempts to purchase more than the quantity available for an item:
+
+![Oversold](./Images/Oversold.PNG)
+
 The user has finished shopping and exits:
 
 ![More Shopping = No](./Images/DoneShopping.PNG)
